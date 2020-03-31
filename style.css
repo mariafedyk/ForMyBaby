@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+body{
+  background-color: rgb(70,130,130);
+}
+.center{
+    height: 100%;
+    background-image: url(img/giphy.gif);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin: auto;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 17%;
+    overflow: scroll;
+}
+h1{
+	text-align: center;
+    color: floralwhite;
+    font-size: 6em;
+    font-family: 'Amatic SC', cursive;
+}
+p{
+	display: block;
+	color: floralwhite;
+     font-size: 3em; 
+    font-family: 'Amatic SC', cursive;
+    padding: 81px;
+    background-color: rgba(0,0,0,0.5);
+    margin: 0;
+	margin-bottom: 250px;
+}
